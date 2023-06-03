@@ -1,5 +1,6 @@
 # maratonadevdojojiraya
 Curso Atualizado "Maratona Dev Dojo" Jiraya
 
-# Ultima Aula 13
-Finalizando as aulas 06 a 13
+# 03/06/2023 11
+  Finalizando as aulas 06 a 13
+  Exercícios Aula 14 realizados
